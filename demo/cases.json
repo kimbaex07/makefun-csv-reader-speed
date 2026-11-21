@@ -1,0 +1,1 @@
+[{"id":"demo-1","input":{"header":true,"text":"name,age,city\n\"Doe, Jane\",34,\"Zürich\"\nSmith,28,London\n"}},{"id":"demo-2","input":{"header":false,"text":"a,b,c\n\"x\ny\",2\r3,4\n5,6\n"}}]
